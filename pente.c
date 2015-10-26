@@ -8,5 +8,7 @@ printf("+pente =10\n");
 
 printf("+pente = 15\n");
 
+printf("+eksi = 21\n");
+
 
 }
