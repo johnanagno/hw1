@@ -12,5 +12,7 @@ printf("+eksi = 21\n");
 
 print("+efta = 28\n");
 
+printf("+oxtw =36'n");
+
 
 }
