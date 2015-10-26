@@ -2,7 +2,9 @@
 
 main(){
 
-printf("pente\n")
+printf("pente\n");
+
+printf("+pente =10\n");
 
 
 }
